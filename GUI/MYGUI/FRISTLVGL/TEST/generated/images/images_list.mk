@@ -1,0 +1,1 @@
+GEN_CSRCS += _cat1_alpha_240x320.c _dog1_alpha_240x320.c

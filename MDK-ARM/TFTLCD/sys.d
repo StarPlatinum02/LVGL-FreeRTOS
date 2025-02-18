@@ -1,0 +1,35 @@
+tftlcd\sys.o: ..\TOUCH\sys.c
+tftlcd\sys.o: ..\TOUCH\sys.h
+tftlcd\sys.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
+tftlcd\sys.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f407xx.h
+tftlcd\sys.o: ../Drivers/CMSIS/Include/core_cm4.h
+tftlcd\sys.o: D:\Keil MDK v5.38\ARM\Version5.06\Bin\..\include\stdint.h
+tftlcd\sys.o: ../Drivers/CMSIS/Include/cmsis_version.h
+tftlcd\sys.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+tftlcd\sys.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+tftlcd\sys.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+tftlcd\sys.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
+tftlcd\sys.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+tftlcd\sys.o: ../Core/Inc/stm32f4xx_hal_conf.h
+tftlcd\sys.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h
+tftlcd\sys.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
+tftlcd\sys.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
+tftlcd\sys.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+tftlcd\sys.o: D:\Keil MDK v5.38\ARM\Version5.06\Bin\..\include\stddef.h
+tftlcd\sys.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
+tftlcd\sys.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
+tftlcd\sys.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
+tftlcd\sys.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h
+tftlcd\sys.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h
+tftlcd\sys.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h
+tftlcd\sys.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h
+tftlcd\sys.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h
+tftlcd\sys.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h
+tftlcd\sys.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h
+tftlcd\sys.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_sram.h
+tftlcd\sys.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_fsmc.h
+tftlcd\sys.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h
+tftlcd\sys.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
+tftlcd\sys.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
+tftlcd\sys.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
+tftlcd\sys.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h

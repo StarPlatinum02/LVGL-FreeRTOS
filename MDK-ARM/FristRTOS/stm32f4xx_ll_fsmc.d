@@ -1,0 +1,33 @@
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fsmc.c
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Core/Inc/stm32f4xx_hal_conf.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f407xx.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/CMSIS/Include/core_cm4.h
+fristrtos\stm32f4xx_ll_fsmc.o: D:\Keil MDK v5.38\ARM\Version5.06\Bin\..\include\stdint.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/CMSIS/Include/cmsis_version.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+fristrtos\stm32f4xx_ll_fsmc.o: D:\Keil MDK v5.38\ARM\Version5.06\Bin\..\include\stddef.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_sram.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_fsmc.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
+fristrtos\stm32f4xx_ll_fsmc.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h

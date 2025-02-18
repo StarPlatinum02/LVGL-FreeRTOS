@@ -1,0 +1,1 @@
+GEN_CSRCS += _avatar_alpha_239x239.c _clothes_alpha_98x107.c
